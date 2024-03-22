@@ -1,0 +1,10 @@
+.env
+.venv
+.myvenv
+.mvenv
+
+env
+venv
+myvenv
+mvenv
+.DS_Store
